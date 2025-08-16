@@ -1,0 +1,173 @@
+
+{
+  "welcome": "Bem-vindo",
+  "chat": "Chat",
+  "login": "Entrar",
+  "logout": "Sair",
+  "register": "Registrar",
+  "email": "E-mail",
+  "password": "Senha",
+  "username": "Nome de usuário",
+  "send_message": "Enviar mensagem",
+  "type_message": "Digite sua mensagem...",
+  "new_conversation": "Nova conversa",
+  "conversations": "Conversas",
+  "settings": "Configurações",
+  "profile": "Perfil",
+  "theme": "Tema",
+  "language": "Idioma",
+  "dark_mode": "Modo escuro",
+  "light_mode": "Modo claro",
+  "system_mode": "Sistema",
+  "generate_image": "Gerar imagem",
+  "image_description": "Descreva a imagem que deseja gerar",
+  "generating": "Gerando...",
+  "error": "Erro",
+  "success": "Sucesso",
+  "cancel": "Cancelar",
+  "save": "Salvar",
+  "delete": "Excluir",
+  "edit": "Editar",
+  "confirm": "Confirmar",
+  "loading": "Carregando...",
+  "search": "Pesquisar",
+  "admin_panel": "Painel Admin",
+  "dashboard": "Dashboard",
+  "users": "Usuários",
+  "analytics": "Analíticas",
+  "welcome_back": "Bem-vindo de volta!",
+  "sign_in_account": "Entre na sua conta",
+  "create_account": "Criar conta",
+  "dont_have_account": "Não tem uma conta?",
+  "already_have_account": "Já tem uma conta?",
+  "forgot_password": "Esqueceu a senha?",
+  "remember_me": "Lembrar de mim",
+  "sign_in": "Entrar",
+  "sign_up": "Registrar",
+  "full_name": "Nome completo",
+  "confirm_password": "Confirmar senha",
+  "terms_conditions": "Concordo com os termos e condições",
+  "privacy_policy": "Política de privacidade",
+  "start_free": "Comece grátis",
+  "no_card_needed": "Sem cartão necessário",
+  "instant_access": "Acesso instantâneo",
+  "ai_assistant": "Assistente IA",
+  "powered_by": "Powered by",
+  "catalyst_description": "Sua plataforma completa de IA para conversas inteligentes, geração de imagens e muito mais.",
+  "welcome_to_catalyst": "Bem-vindo ao Catalyst IA",
+  "get_started": "Começar",
+  "features": "Recursos",
+  "smart_conversations": "Conversas inteligentes",
+  "image_generation": "Geração de imagens",
+  "multi_language": "Multi-idiomas",
+  "secure_platform": "Plataforma segura",
+  
+  "hero": {
+    "title": {
+      "part1": "Bem-vindo ao",
+      "part2": "Catalyst IA"
+    },
+    "description": "Sua plataforma completa de inteligência artificial para conversas inteligentes, geração de imagens e muito mais."
+  },
+  
+  "cta": {
+    "free": "Grátis para sempre",
+    "fast": "Respostas instantâneas",
+    "love": "Feito com carinho"
+  },
+  
+  "login_button": "Fazer Login",
+  "register_button": "Criar Conta",
+  "access_your_account": "Acesse sua conta para começar",
+  "enter_username": "Digite seu nome de usuário",
+  "enter_password": "Digite sua senha",
+  "enter_email": "Digite seu e-mail",
+  "create_new_account": "Criar nova conta",
+  "why_choose_catalyst": "Por que escolher o Catalyst IA?",
+  
+  "stats": {
+    "active_users": "Usuários ativos",
+    "conversations": "Conversas",
+    "images_generated": "Imagens geradas",
+    "uptime": "Uptime"
+  },
+  
+  "closeSidebar": "Fechar barra lateral",
+  "openSidebar": "Abrir barra lateral",
+  "messages": "mensagens",
+  "intelligentAIAssistant": "Assistente IA inteligente",
+  "newConversation": "Nova conversa",
+  "welcomeToCatalystIA": "Bem-vindo ao Catalyst IA",
+  "welcomeDescription": "Seu assistente de IA está pronto para ajudá-lo com conversas inteligentes e geração de imagens.",
+  "smartConversations": "Conversas inteligentes",
+  "smartConversationsDesc": "IA avançada para diálogos naturais e contextuais",
+  "imageGenerationDesc": "Crie imagens impressionantes com apenas uma descrição",
+  "advancedAI": "IA Avançada",
+  "advancedAIDesc": "Tecnologia de ponta para as melhores respostas",
+  "typeFirstMessage": "Digite sua primeira mensagem para começar uma conversa...",
+  "processingMessage": "Processando sua mensagem",
+  
+  "virtualAssistant": "Assistente virtual",
+  "searchConversations": "Buscar conversas...",
+  "statistics": "Estatísticas",
+  "conversations": "Conversas",
+  "total": "Total",
+  "noConversationsYet": "Nenhuma conversa ainda",
+  "clickNewConversation": "Clique em 'Nova Conversa' para começar",
+  "today": "Hoje",
+  "yesterday": "Ontem",
+  "freePlan": "Plano gratuito",
+  "profile": "Perfil",
+  "themes": "Temas",
+  "generateImages": "Gerar Imagens",
+  "security": "Segurança",
+  "viewGeneratedImages": "Ver Imagens",
+  "fun": "Diversão",
+  "logout": "Sair",
+  
+  "toast": {
+    "required_fields": "Campos obrigatórios",
+    "fill_all_fields": "Por favor, preencha todos os campos.",
+    "invalid_email": {
+      "title": "E-mail inválido",
+      "description": "Por favor, digite um e-mail válido."
+    },
+    "password_too_short": {
+      "title": "Senha muito curta",
+      "description": "A senha deve ter pelo menos 6 caracteres."
+    }
+  },
+  
+  "chatInput": {
+    "placeholderMessage": "Digite sua mensagem...",
+    "placeholderImage": "Descreva a imagem que deseja gerar...",
+    "imageMode": "Modo de imagem ativo",
+    "activateImageMode": "Ativar modo de imagem",
+    "imageModeActive": "Modo de geração de imagem ativo - Descreva a imagem que deseja criar",
+    "rateLimitWarning": "Aguarde antes de enviar outra mensagem",
+    "disclaimer": "Catalyst IA pode cometer erros. Considere verificar informações importantes."
+  },
+  
+  "placeholders": {
+    "choose_username": "Escolha um nome de usuário",
+    "password_requirements": "Pelo menos 6 caracteres",
+    "full_name": "Seu nome completo",
+    "bio_placeholder": "Conte um pouco sobre você...",
+    "image_prompt_placeholder": "Uma paisagem bonita com montanhas ao pôr do sol...",
+    "system_prompt_placeholder": "Ex: Você é um especialista em marketing digital. Ajude com estratégias, campanhas e análises de performance..."
+  },
+  
+  "alt_texts": {
+    "generated_by_ai": "Gerado por IA",
+    "ai_generated_image": "Imagem Gerada por IA",
+    "user_image": "Imagem do usuário"
+  },
+  
+  "aria_labels": {
+    "pagination": "paginação",
+    "breadcrumb": "caminho de navegação",
+    "previous_page": "Ir para página anterior",
+    "next_page": "Ir para próxima página",
+    "toggle_sidebar": "Alternar barra lateral"
+  }
+}
